@@ -1,6 +1,6 @@
 # Rust Terminal
 
-Кроссплатформенный (Windows + Linux) UART/TCP/UDP терминал на Rust + eframe/egui. Rust-порт Python/PyQt-приложения (`../uart_terminal.py`).
+Кроссплатформенный (Windows + Linux) UART/TCP/UDP терминал на Rust + eframe/egui.
 
 ## Возможности
 
