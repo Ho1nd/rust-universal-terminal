@@ -71,8 +71,6 @@ cargo test
 
 ## Структура проекта
 
-См. `../RUST_PORT_SPEC.md` — полное ТЗ с описанием архитектуры.
-
 ```
 src/
 ├── app.rs              # TerminalApp (eframe::App)
